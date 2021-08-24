@@ -1,0 +1,3 @@
+﻿  PE_popravitelna.cpp
+C:\Users\Jovan\source\repos\PE_popravitelna\PE_popravitelna\PE_popravitelna.cpp(290,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PE_popravitelna.vcxproj -> C:\Users\Jovan\source\repos\PE_popravitelna\Debug\PE_popravitelna.exe
